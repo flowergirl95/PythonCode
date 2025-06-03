@@ -34,31 +34,30 @@ Instacart already has very good sales, but they
       customers are ordering, and anything else you can think of
 
 # Data
-Orders 
-Orders_products_prior
-Products
-Customers
-Departments
-I used a number of open source data sets from Instacart, and data sets created for the purpose of 
-the proyect In Career Foundary Course.
+-Orders 
+-Orders_products_prior
+-Products
+-Customers
+-Departments
+-I used a number of open source data sets from Instacart, and data sets created for the purpose of the proyect In Career Foundary Course.
 
 # Tools
  The data was analysed using Python and the following libraries:
- Pandas : For data analysis
- Numpy : For Mathemtical equations
- Seaborn: For data visualizations
- Matplotlib: For data Visualizations
+ -Pandas : For data analysis
+ -Numpy : For Mathemtical equations
+-Seaborn: For data visualizations
+ -Matplotlib: For data Visualizations
 
 # Folders
 The project files are divided between the following folders:
-1- Project Management: Project Brief and Data Dictionary 
-2- Data: 
+1. Project Management: Project Brief and Data Dictionary 
+2. Data: 
    Original Data: Contains the original dataframes
    Prepared Data: Contains the cleaned dataframes 
-3- Scripts: The jupyter notebooks containing the coding for the analysis
-4- Analysis
+3. Scripts: The jupyter notebooks containing the coding for the analysis
+4. Analysis
    Visualizations: Contains the visualiations used for developing and explaing insights
-5- Sent to client: The final report presented in Excel
+5. Sent to client: The final report presented in Excel
 
 
  
