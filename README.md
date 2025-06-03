@@ -34,12 +34,12 @@ Instacart already has very good sales, but they
       customers are ordering, and anything else you can think of
 
 # Data
--Orders 
--Orders_products_prior
--Products
--Customers
--Departments
--I used a number of open source data sets from Instacart, and data sets created for the purpose of the proyect In Career Foundary Course.
+- Orders 
+- Orders_products_prior
+- Products
+- Customers
+- Departments
+- I used a number of open source data sets from Instacart, and data sets created for the purpose of the proyect In Career Foundary Course.
 
 # Tools
  The data was analysed using Python and the following libraries:
